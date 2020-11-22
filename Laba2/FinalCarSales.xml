@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CarSales>
+  <Car Body="Седан" Brand="BMW" Model="M5 F90" Region="Харків" Year="2018" Price="120000" />
+</CarSales>
